@@ -1,0 +1,52 @@
+[
+    {
+        "firstName": "Robert",
+        "lastName": "De Niro",
+        "email": "robertDeNiro@gmail.com"
+    },
+    {
+        "firstName": "Jack",
+        "lastName": "Nicholson",
+        "email": "nicholson@gmail.com"
+    },
+    {
+        "firstName": "Marlon",
+        "lastName": "Brando",
+        "email": "MarlonBrando@gmail.com"
+    },
+    {
+        "firstName": "Denzel",
+        "lastName": "Washington",
+        "email": "DenzelWashington@gmail.com"
+    },
+    {
+        "firstName": "Clark",
+        "lastName": "Gable",
+        "email": "ClarkGable@gmail.com"
+    }, 
+    {
+        "firstName": "Tom",
+        "lastName": "Hanks",
+        "email": "TomHanks@gmail.com"
+    },
+    {
+        "firstName": "Humphrey",
+        "lastName": "Bogart",
+        "email": "HumphreyBogart@gmail.com"
+    },
+    {
+        "firstName": "Daniel",
+        "lastName": "Day-Lewis",
+        "email": "DanielDay-Lewis@gmail.com"
+    },
+    {
+        "firstName": "Sidney",
+        "lastName": "Poitier",
+        "email": "SidneyPoitier@gmail.com"
+    },
+    {
+        "firstName": "Gregory",
+        "lastName": "Peck",
+        "email": "GregoryPeck@gmail.com"
+    }
+]
